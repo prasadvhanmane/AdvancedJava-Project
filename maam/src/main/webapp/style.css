@@ -1,0 +1,110 @@
+@charset "UTF-8";
+#icon{
+    padding-left: 300px;
+}
+#navbarNav{
+    padding-left: 130px;
+}
+.nav-item{
+    padding-left: 25px;
+    color: black;
+}
+header{
+	width: 100vw;
+	height:100vh;
+	background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('images/fill2.jpg');
+	background-size: cover;
+	position: relative;
+	background-attachment: fixed;
+}
+
+.text{
+	font-family: sans-serif;
+	font-size: 3em;
+	line-height:1.5em;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 260px;
+}
+.navbar-brand{
+    font-size: 25px;
+    color: rgb(240, 114, 68);
+}
+
+.project{
+	width: 100vw;
+    height: 500px;
+    background-color: rgb(185, 255, 255);
+}
+.project1{
+    width: 1280px;
+    height: 500px;
+    background-color: rgb(212, 215, 215);
+}
+.project-pic{
+    text-align: left;
+    padding-top: 85px;
+    width: 330px;
+    height: 500px;
+    float: left;
+}
+.content{
+    width: 900px;
+    height: 400px;
+    float: right;
+    text-align: center;
+    top: 50%;
+    transform: translateY(+30%);
+}
+.project-pic1{
+    text-align:right;
+    padding-top: 85px;
+    width: 330px;
+    height: 500px;
+    float: left;
+}
+.content1{
+    width: 900px;
+    height: 500px;
+    float: left;
+    text-align: center;
+    top: 50%;
+    transform: translateY(+30%);
+}
+footer{
+    width: 100vw;
+    height: 30vw;
+    background-color: rgb(212, 215, 215);
+    text-align: center;
+}
+.address{
+    width: 600px;
+    height: 380px;
+    float: left;
+    text-align: center;
+}
+.contact-info{
+    width: 600px;
+    height:380px;
+    float: right;
+    text-align: center;
+}
+#form{
+    text-align: center;
+}
+#button{
+    padding: 2px 4px;
+    color: aliceblue;
+    font-size: 18px;
+    border-radius: 35px;
+    letter-spacing: 2px;
+    background: linear-gradient(90deg,#755bea,#ff72c0);
+}
+#topbutton{
+    color: rgb(249, 249, 249);
+    border-radius: 30px;
+    border: 2px solid black;
+    background: linear-gradient(90deg,#755bea,#ff72c0);
+    padding: 2px 3px;
+}
